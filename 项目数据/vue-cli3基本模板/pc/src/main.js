@@ -5,6 +5,7 @@ import router from "./router";
 import store from "./store";
 import "./registerServiceWorker";
 import "./plugins/element.js";
+import "./assets/style/reset.css"
 import Countly from 'countly-sdk-web';
 import VueCountly from 'vue-countly';
 
